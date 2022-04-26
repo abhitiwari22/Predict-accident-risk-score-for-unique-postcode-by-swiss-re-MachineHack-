@@ -17,3 +17,5 @@ Few Hypothesis to help you think: "More accidents happen in the later part of th
 "Postal codes with more single carriage roads have more accidents"
 
 Additionally, we are providing you with road network data (contains info on the nearest road to a postcode and it's characteristics) and population data (contains info about population at area level). This info are for augmentation of features, but not mandatory to use.
+# For train and test csv download it from
+https://machinehack.com/hackathon/predict_accident_risk_score_for_unique_postcode/overview
